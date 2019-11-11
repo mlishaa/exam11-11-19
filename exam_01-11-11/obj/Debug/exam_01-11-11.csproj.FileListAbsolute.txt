@@ -1,0 +1,10 @@
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\obj\Debug\exam_01-11-11.csprojAssemblyReference.cache
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\obj\Debug\exam_01_11_11.Form1.resources
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\obj\Debug\exam_01_11_11.Properties.Resources.resources
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\obj\Debug\exam_01-11-11.csproj.GenerateResource.cache
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\obj\Debug\exam_01-11-11.csproj.CoreCompileInputs.cache
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\bin\Debug\exam_01-11-11.exe.config
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\bin\Debug\exam_01-11-11.exe
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\bin\Debug\exam_01-11-11.pdb
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\obj\Debug\exam_01-11-11.exe
+C:\Users\ipd\source\repos\exam_01-11-11\exam_01-11-11\obj\Debug\exam_01-11-11.pdb
